@@ -1,0 +1,41 @@
+.post {
+    width: 50%;
+    padding: 15px;
+    border: 4px solid dimgray;
+    display: flex;
+}
+
+.photo_author {
+    width: 10%;
+    margin-right: 4px;
+}
+
+.post_content {
+    width: 90%;
+    font-size: 20px;
+}
+
+.photo_author img {
+    width: 90%;
+    border-radius: 50%;
+}
+
+.comment p {
+    margin-top: 0;
+}
+
+.first-line {
+    display: flex;
+    margin: -20px 0 -20px 0;
+}
+
+.post_content img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.first-line p {
+    color: dimgray;
+    line-height: 4;
+    margin: 0 4px;
+}
